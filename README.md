@@ -7,31 +7,25 @@
 * **Week 2**
   - [Science of Influence]()
 * **Week 3**
-  - [Reciprocation]()
+  - [Weapons of Influence]()
 * **Week 4**
-  - [Commit & Consist]()
+  - [The Gauntlet]()
 * **Week 5**
-  - [Proof & Truth]()
+  - [The Gauntlet Continued]()
 * **Week 6**
-  - [Love & Affection]()
+  - [The Gauntlet Again]()
 * **Week 7**
-  - [Authority & Deference]()
+  - [The Gauntlet Penultima]()
 * **Week 8**
-  - [Getting to Yes]()
+  - [The Gauntlet Ultima]()
 * **Week 9**
   - No Class
 * **Week 10**
-  - [Myth of Charm]()
+  - [Gauntlet Continued]()
 * **Week 11**
-  - [Charming Behavior]()
+  - [Gauntlet Continued Again]()
 * **Week 12**
-  - [The Power of Influence]()
-* **Week 13**
-  - [The Threat of Influence]()
-* **Week 14**
-  - [Dark Influence]()
-* **Week 15**
-  - [Responsibility]()
+  - [The End]()
 
 ## Extra Content
   - [Leaves on a Stream](https://www.youtube.com/watch?v=t0cliLzDjoc&list=PLDpLIEgKNGbMHCPdRvBHhJnLzigvuNvc2)
